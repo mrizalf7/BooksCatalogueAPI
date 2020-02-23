@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/16fc267f-4cc1-4ef3-b336-43852a7680c9/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/rizalapiapp"
+}
